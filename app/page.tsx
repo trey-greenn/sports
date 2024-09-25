@@ -28,19 +28,19 @@ export default function Home() {
           <Image src="/sportscard.png" alt="Sports" width={500} height={500} />
         </div>
         <div className="col-span-1 bg-gray-400 rounded-lg py-6">
-          <h2 className="text-2xl font-bold text-center">NBA</h2>
+          <h2 className="text-2xl font-bold text-center">NFL</h2>
           <Image src="/sportscard.png" alt="Sports" width={500} height={500} />
         </div>
         <div className="col-span-1 bg-gray-400 rounded-lg py-6">
-          <h2 className="text-2xl font-bold text-center">NBA</h2>
+          <h2 className="text-2xl font-bold text-center">NCAAF</h2>
           <Image src="/sportscard.png" alt="Sports" width={500} height={500} />
         </div>
         <div className="col-span-1 bg-gray-400 rounded-lg py-6">
-          <h2 className="text-2xl font-bold text-center">NBA</h2>
+          <h2 className="text-2xl font-bold text-center">NCAAB</h2>
           <Image src="/sportscard.png" alt="Sports" width={500} height={500} />
         </div>
         <div className="col-span-1 bg-gray-400 rounded-lg py-6">
-          <h2 className="text-2xl font-bold text-center">NBA</h2>
+          <h2 className="text-2xl font-bold text-center">Finance</h2>
           <Image src="/sportscard.png" alt="Sports" width={500} height={500} />
         </div>
 
